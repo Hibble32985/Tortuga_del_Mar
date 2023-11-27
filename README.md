@@ -10,3 +10,8 @@ passwordgenerator.zippyout.com:  reviewed information and potential means of cod
 geeksforgeeks: resource used to learn more about definitions of various terms in provided code (no code used)
 developer.mozilla.org:  resource used to learn more about creating a password generator and understanding CSS in more detail as well as potential values for margins (no code used)
 
+URL to password generator site: file:///C:/Users/can2f/OneDrive/Desktop/code%20folder/Challenge%203/index.html
+
+Link to image of password generator:  https://1drv.ms/i/s!AgkCtpz1riGAiLxYx9SmoDMXASgfDQ?e=5Gdt9w
+
+
